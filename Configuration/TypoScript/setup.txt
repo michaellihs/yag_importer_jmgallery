@@ -1,0 +1,9 @@
+####################################################
+# YAG jm_gallery importer
+#
+# @author Michael Knoll <knoll@punkt.de>
+####################################################
+
+plugin.tx_yag_importer_jmgallery.settings {
+
+}
